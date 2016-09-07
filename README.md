@@ -1,0 +1,1 @@
+A supermarket checkout simulator
